@@ -129,10 +129,6 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="ElyTV.br" tvg-logo="https://i.imgur.com/1eHNe91.png" group-title="Entretenimento",ElyTV
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
-MTV_2021_%28brand_version%29.svg.png" group-title="Entretenimento",Pluto TV MTV (Brazil)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRetro.br" tvg-logo="https://i.imgur.com/wztO3GM.png" group-title="Entretenimento",Pluto TV Retrô
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8
 #EXTINF:-1 tvg-id="RedeNGT.br" tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="Entretenimento",Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 tvg-id="TVA7Plus.br" tvg-logo="https://i.imgur.com/qeo2oPM.png" group-title="Entretenimento",TV A7 Plus
@@ -227,6 +223,18 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="Legislativo",TV Justiça [Não 24/7]
 https://ythls.armelin.one/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
 ####### MÚSICA ################################################################################################################################################
+########## MTV CLASSIC ################################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Música",MTV Classic | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66a01dcb8561260008b0a41d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## MTV ROCKS ################################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Música",MTV Rocks | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66a01e07d2d50d0008100d6a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## MTV SPANKIN' NEW #########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Música",MTV Spankin' New | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## MTV KARAOKÊ #########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Música",MTV Karaokê | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05ad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 #EXTINF:-1 tvg-id="MasterShowTV.br" tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="Música",Master Show TV
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 #EXTINF:-1 tvg-id="VirtualTV.br" tvg-logo="https://i.imgur.com/e1b0TTP.png" group-title="Música",Virtual TV
@@ -238,17 +246,10 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBEJoinville.br" tvg-logo="https://i.imgur.com/zUpWcUN.png" group-title="Educação",TVBE Joinville
 https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVNatureza.br" tvg-logo="https://i.imgur.com/RuyQQ6M.png" group-title="Educação",Pluto TV Natureza
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVVidaReal.br" tvg-logo="https://i.imgur.com/dRbBbxP.png" group-title="Educação",Pluto TV Vida Real (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="UniTVPortoAlegre.br" tvg-logo="https://i.imgur.com/GmA5uuk.png" group-title="Educação",UniTV Porto Alegre
 http://unitvaovivo.ufrgs.br:8080/live.ogg
 #EXTINF:-1 tvg-id="UnisulTV.br" tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="Educação",UNISUL TV
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
-####### INFANTIL ##############################################################################################################################################
-#EXTINF:-1 tvg-id="NickClassico.br" tvg-logo="https://i.imgur.com/Crip6wT.png" group-title="Infantil",Pluto TV Classic Nick (Brazil)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8
 ####### FILMES ################################################################################################################################################
 #EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Filmes",Classique TV (360p)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
@@ -256,9 +257,6 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.br" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="Filmes",MyTime Movie Network Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineDrama.br" tvg-logo="https://i.imgur.com/lf5oME7.png" group-title="Filmes",Pluto TV Cine Drama
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 ####### FAMÍLIA ###############################################################################################################################################
 #EXTINF:-1 tvg-id="CWBTV.br" tvg-logo="https://i.imgur.com/S0ISpmU.png" group-title="Família",CWB TV
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
@@ -270,8 +268,8 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 ####### DOCUMENTÁRIO ##########################################################################################################################################
 #EXTINF:-1 tvg-id="NovaTVAgrotour.br" tvg-logo="https://i.imgur.com/cgN2hfm.png" group-title="Documentário",Nova TV Agrotour
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVInvestigacao.br" tvg-logo="https://i.imgur.com/JlQq0YJ.png" group-title="Documentário",Pluto TV Investigação
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Documentário",Investigação | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 ####### CULTURA ###############################################################################################################################################
 #EXTINF:-1 tvg-id="TVOmindare.br" tvg-logo="https://i.imgur.com/naZZUIT.png" group-title="Cultura",TV Omindaré
 https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8
@@ -280,15 +278,142 @@ https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
 ####### Clássico ##############################################################################################################################################
 #EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="Clássico",Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+########## A FEITICEIRA ####################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Retrô",A feiticeira | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## O HOMEM QUE VEIO DO CÉU #########################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Retrô",O homem que veio do céu | Pluto TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## DESENHOS CLÁSSICOS #########################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Retrô",Desenhos clássicos | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/655e5c4d2c46f3000877a54b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 ####### ESTILO DE VIDA ########################################################################################################################################
 #EXTINF:-1 tvg-id="RevryBrasil.us" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Revry_Brasil_476x476circle.png?$ORIGIN_PNG$" group-title="Estilo de vida",Revry Brasil
 https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Estilo de vida",TASTEMADE Brasil | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+####### REALIDADE #############################################################################################################################################
+########## MTV CATFISH ##############################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Realidade",MTV Catfish | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec817/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## MTV ARE YOU THE ONE? ########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Realidade",MTV Are You The One? | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## MTV DE FÉRIAS COM O EX? ####################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Realidade",MTV De férias com o EX? | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## MASTER CHEF BRASIL ####################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Realidade",Master Chef Brasil | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 ####### VIAGEM ################################################################################################################################################
 #EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-logo="https://i.imgur.com/I6pKoBd.png" group-title="Viagem",TV Paraná Turismo
 http://200.189.113.201/hls/tve.m3u8
 ####### SÉRIES ################################################################################################################################################
 #EXTINF:-1 tvg-id="TVSeries.br" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="Séries",TV Series 1 As Panteras
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-
+####### PLUTO TV FILMES ########################################################################################################################################
+########## CINE SUCESSOS ###############################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Up7UWn2.png" group-title="Pluto TV Filmes",Cine Sucessos | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## FILMES AÇÃO ###############################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7y8PRTO.png" group-title="Pluto TV Filmes",Filmes Ação | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## ADRENALINA FREEZONE ########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0iyHLa.png" group-title="Pluto TV Filmes",Adrenalina Freezone | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## CINE COMÉDIA ########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q1puy8o.png" group-title="Pluto TV Filmes",Cine Comédia | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## CINE COMÉDIA ROMÂNTICA #################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFdeGhs.png" group-title="Pluto TV Filmes",Cine Comédia Romântica | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## CINE DRAMA #############################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pszwpCs.png" group-title="Pluto TV Filmes",Cine Drama | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## FILMELIER #############################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8znSrlm.png" group-title="Pluto TV Filmes",Filmelier | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## CINEROMANCE #############################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fBcbd9I.png" group-title="Pluto TV Filmes",Cineromance | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## FILMES SUSPENSE ###########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtZxSna.png" group-title="Pluto TV Filmes",Filmes Suspense | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## CINE CRIME ###########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cI9WZeO.png" group-title="Pluto TV Filmes",Cine Crime | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6479ff764f5ba5000878dfe2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## CINE TERROR ###########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jmcbz4Y.png" group-title="Pluto TV Filmes",Cine Terror | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## CINE TERROR TRASH ##########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15xegLL.png" group-title="Pluto TV Filmes",Cine Terror Trash | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66aa67493a4ad2000806d91b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## FICÇÃO CIENTÍFICA ########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qY6dCqJ.png" group-title="Pluto TV Filmes",Ficção Científica | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## FILMES NACIONAIS ########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PnWCHM2.png" group-title="Pluto TV Filmes",Filmes Nacionais | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## NETMOVIES ########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2yMQZvp.png" group-title="Pluto TV Filmes",Netmovies | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/663b9de4f999220008230fa8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## CINE CLÁSSICOS ########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7ejSTN.png" group-title="Pluto TV Filmes",Cine Clássicos | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8??deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## RUNTIME ###########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AnhQsVC.png" group-title="Pluto TV Filmes",Runtime | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## TV Bang Bang ###########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mFjKJH0.png" group-title="Pluto TV Filmes",TV Bang Bang | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/663b9dc7cb3ea10008f1a0ce/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## Cine Inspiração ###########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DMqZuUH.png" group-title="Pluto TV Filmes",Cine Inspiração | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa991b1f09e020007e78626/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## Cine Família ###########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LYb0WXn.png" group-title="Pluto TV Filmes",Cine Família | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## Filmes Aventura ###########################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fYteqhk.png" group-title="Pluto TV Filmes",Filmes Aventura | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/66c79a4262e5510008ff68a5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## CURIOSIDADES ###########################################################################################################################################
+########## NATUREZA ###############################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Curiosidades",Natureza | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## PAISAGEMS ###############################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Curiosidades",Paisagens | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## ANIMAIS ###############################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Curiosidades",Animais | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aa984cfc2c0008883a92/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## TURBO ###############################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Curiosidades",Turbo | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## CURIOSIDADE ###############################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Curiosidades",Curiosidade | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474aadc8e3c0a0008b98493/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## MESTRES DA RESTAURAÇÃO ######################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Curiosidades",Mestres da restauração | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## NEGÓCIO FECHADO ######################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Curiosidades",Negócio fechado | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ad7394798def00087b2bfe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## ACUMULADORES OBSESSIVOS ####################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Curiosidades",Acumuladores obsessivos | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a4b4261ca00083aa99e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## MISTÉRIOS SEM SOLUÇÃO ####################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Curiosidades",Mistérios sem solução | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## ASSOMBRAÇÕES ####################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Curiosidades",Assombrações | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+########## INFANTIL ####################################################################################################################################
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Infantil",Nick Jr. Club | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Infantil",Cocoricó | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Infantil",Nickelodeon | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645951c0e94c38000802d2cb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Infantil",Tartarugas Ninjas | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-logo="https://monitor.cdn.mozilla.net/img/logos/PlutoTV.png" group-title="Infantil",Turma da Mõnica | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
