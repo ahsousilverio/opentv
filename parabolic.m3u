@@ -35,8 +35,8 @@ https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://urlc.net/M2LD" group-title="Parabólica",Rede Século 21
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
-#EXTINF:-1 tvg-id="cancaonova.br" tvg-logo="https://blog.cancaonova.com/brasilia/files/2015/06/logo_novo_TVCN.png" group-title="Parabólica",TV Canção Nova
-http://acsa.ws:80/reginaldooliver1/oliverreginaldo/191336.ts
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-logo="https://iili.io/Jm1F3Ja.png" group-title="Parabólica",Canção Nova
+http://voz.one:80/i3FDZBieukulSEi/zChA1EmW1R26AQd/56241
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="https://i.imgur.com/tjVKaPG.png" group-title="Parabólica",Novo Tempo
 #EXTINF:-1 tvg-id="redebrasilcentral.br" tvg-logo="https://portal.rbc1.com.br/public/portal/img/layout/logorbc.png" group-title="Parabólica",RBC
 http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
