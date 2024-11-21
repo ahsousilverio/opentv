@@ -195,6 +195,10 @@ https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TCM10HD.br" tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="Notícia",TCM 10 HD (1080p)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 tvg-id="jetsons.br" tvg-logo="https://redeitv.online/roku/imgcanais/the_jetsons.jpg" group-title="Animação", The Jetsons
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 tvg-id="retrocartoon.br" tvg-logo="https://redeitv.online/roku/imgcanais/retro_cartoon.jpg" group-title="Animação", Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="TelaViva.br" tvg-logo="https://i.imgur.com/vcNo9Vj.png" group-title="Família",Tela Viva (360p)
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-logo="https://i.imgur.com/wnYsE3O.png" group-title="Rural",Terra Viva (720p) [Não 24/7]
