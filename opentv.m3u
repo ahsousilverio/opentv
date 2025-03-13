@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="globo.com.br" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Geral",Globo BA
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8?ativo=true
-#EXTINF:-1 tvg-logo="https://imgur.com/waZJG1M.png" group-title="Parabólica", Globo Minas
-http://supersonictv.live:8080/899559/316805/85011
 #EXTINF:-1 tvg-id="acusticoimaginar.br" tvg-logo="https://i.imgur.com/j9mDN8u.jpeg" group-title="Música",Acústico Imaginar: Pé de serra (Youtube)
 https://youtu.be/aqIOdPuSPw0
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Variedade",Adesso TV (720p)
