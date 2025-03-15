@@ -1,0 +1,45 @@
+#EXTM3U
+### GLOBO #########################################################################################  
+#EXTINF:-1 group-title="Variedade",Globo
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8?ativo=true
+### SBT ###########################################################################################
+#EXTINF:-1 group-title="Variedade",SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+### Band ##########################################################################################
+#EXTINF:-1 group-title="Variedade",Band
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/chunklist.m3u8
+### Record ########################################################################################
+#EXTINF:-1 group-title="Variedade",Record
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+### Rede TV #######################################################################################
+#EXTINF:-1 group-title="Variedade",RedeTV
+https://cdn.live.br1.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
+### TV Brasil #####################################################################################
+#EXTINF:-1 group-title="Variedade",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+### TV Gazeta #####################################################################################
+#EXTINF:-1 group-title="Variedade",TV Gazeta
+https://stmv1.samcast.com.br/wagner7919/wagner7919/chunklist_w286398353.m3u8
+### TV Cultura ####################################################################################
+#EXTINF:-1 group-title="Variedade",TV Cultura
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+### Band News #####################################################################################
+#EXTINF:-1 group-title="Notícia",Band News
+https://service-stitcher.clusters.pluto.tv/v2/stitch/embed/hls/channel/666c9c60a7efd40008f552f0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+### Canal Educação ################################################################################
+#EXTINF:-1 group-title="Educação",Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+### Futura ########################################################################################
+#EXTINF:-1 group-title="Educação",Futura
+https://tv.unisc.br/hls/test.m3u8
+### CNT ###########################################################################################
+#EXTINF:-1 group-title="Variedade",Rede CNT
+https://cloudflare.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTc0MjY1NTI0MywiaWF0IjoxNzQyMDUwNDQzLCJpZCI6IjAxOTU5YTRjLTM2NmEtNzk0OC1iY2Q0LTE5YjRjNjA2YWI1NyIsImlpcCI6ZmFsc2UsIm5iZiI6MTc0MjA0ODY0MywidWlkIjoiMDE5NTlhNGMtMzY2YS03OTQ4LWJjZDQtMTliNGM2MDZhYjU3IiwidXJpX3N1YiI6Ii9jMGZiYWIxZC04YWQ2LTRiNmMtYjA1My1iMzBhODliMDIxMTAvIn0.b4Ed6OSkecUJ5cokMxf2HEhSxFbqdO9gtIcgl2Em2qg&uid=01959a4c-366a-7948-bcd4-19b4c606ab57&magica=sim
+### Canção Nova ###################################################################################
+#EXTINF:-1 group-title="Variedade",Canção Nova
+https://youtu.be/rnHXZm7ZTwQ
+### RIT TV ########################################################################################
+#EXTINF:-1 group-title="Variedade",RIT TV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+
+
