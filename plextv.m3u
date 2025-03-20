@@ -1,4 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Classic TV",Grjngo
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63489bc190b96ef5e0eb327c.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=SZa8EnEDs5qRv_xzoa7M
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Classic TV",Lone Star
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6196c9241d310bf925e02616.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=SZa8EnEDs5qRv_xzoa7M
