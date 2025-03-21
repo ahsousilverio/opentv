@@ -195,3 +195,12 @@ https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-id="UnisulTV.br" tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="Cultura",UNISUL TV
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+########## RADIO ################################################################################################################
+#EXTINF:-1 tvg-id="anos70.br" tvg-logo="https://imgur.com/u5giryd.png" group-title="Radio",Anos 70
+https://0n-70s.radionetz.de/0n-70s.mp3
+#EXTINF:-1 tvg-id="anos80.br" tvg-logo="https://imgur.com/QtOu4G7.png" group-title="Radio",Anos 80
+https://0n-80s.radionetz.de/0n-80s.aac
+#EXTINF:-1 tvg-id="anos90.br" tvg-logo="https://imgur.com/LGGgixl.png" group-title="Radio",Anos 90
+https://0n-90s.radionetz.de/0n-90s.aac
+#EXTINF:-1 tvg-id="anos90.br" tvg-logo="https://imgur.com/1Mp1Duy.png" group-title="Radio",Anos 2000
+https://0n-2000s.radionetz.de/0n-2000s.mp3
