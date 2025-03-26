@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dABfFu6.png" group-title="Plex | Hit TV",Master Chef
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65722042b10e9d22a882bde2.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eWtZkkUux9yy9tGGZw9w&includeAllStreams=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/SXTIgto.png" group-title="Plex | Notícias",Euronews Portuguese
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6245cd154f27f4e9c76d67e9.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eWtZkkUux9yy9tGGZw9w&includeAllStreams=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/SE8EJZH.png" group-title="Plex | Drama TV",Crime e investigação
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eWtZkkUux9yy9tGGZw9w&includeAllStreams=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/Vf9JADP.png" group-title="Plex | Drama TV",Séries gratuitas
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65e9d0ad8fe4ef7053c3c86c.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eWtZkkUux9yy9tGGZw9w&includeAllStreams=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/4Mm4tRz.png" group-title="Plex | Drama TV",Movie Sphere
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6623c836ed4918437ed56ec2.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eWtZkkUux9yy9tGGZw9w&includeAllStreams=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/66keANa.png" group-title="Plex | Drama TV",Mytime Movie Network
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-644874236e1dc0bf5664a674.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eWtZkkUux9yy9tGGZw9w&includeAllStreams=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/kNMUDS1.png" group-title="Plex | Holiday",Spark TV
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6623c114ed4918437ed56ebc.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eWtZkkUux9yy9tGGZw9w&includeAllStreams=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/1Ja6Fp4.png" group-title="Plex | Classic TV",Grjngo
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-63489bc190b96ef5e0eb327c.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eWtZkkUux9yy9tGGZw9w&includeAllStreams=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/q3YtAfI.png" group-title="Plex | Food & Home",Tastemade
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-65cd522126388de8e0b08271.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eWtZkkUux9yy9tGGZw9w&includeAllStreams=1
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/kFAPlq0.png" group-title="Plex | Filmes",Cindie TV
+https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6685ad945ffde3f71a3977d5.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=eWtZkkUux9yy9tGGZw9w&includeAllStreams=1

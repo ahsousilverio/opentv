@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Agir (Android)
+https://ia600709.us.archive.org/33/items/filme_velho/agir_android.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Agir (Amazon)
+https://ia600709.us.archive.org/33/items/filme_velho/agir_amazon.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Agir (Roku)
+https://ia600709.us.archive.org/33/items/filme_velho/agir_roku.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",De volta para o futuro
+https://ia600709.us.archive.org/33/items/filme_velho/DeVoltaProFuturo1.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",De volta para o futuro 2
+https://archive.org/download/filme_velho/DeVoltaProFuturo12.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",De volta para o futuro 3
+https://archive.org/download/filme_velho/DeVoltaProFuturo13.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",V - A batalha final I
+https://archive.org/download/filme_velho/VaBatalhaFinal01.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",V - A batalha final II
+https://archive.org/download/filme_velho/VaBatalhaFinal02.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",V - A batalha final III
+https://archive.org/download/filme_velho/VaBatalhaFinal03.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Inimigo meu
+https://archive.org/download/filme_velho/InimigoMeu.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Feitiço do tempo
+https://archive.org/download/filme_velho/feitico_do_tempo.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Os deuses devem estar loucos
 https://archive.org/download/Os.Deuses.Devem.Estar.Loucos.1980.720p.BluRay.x264.DUBLADOLAPUMiAFilMES.COM/Os.Deuses.Devem.Estar.Loucos.1980.720p.BluRay.x264.DUBLADO-LAPUMiAFilMES.COM.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",1984 - Conhecimento é poder
@@ -7,41 +29,51 @@ https://archive.org/download/Filme1984GeorgeOrwellDubladoConhecimentoEhPoderByN1
 https://archive.org/download/o-u-ltimo-guerreiro-das-estrelas-1984-720p/O%20%C3%9ALTIMO%20GUERREIRO%20DAS%20ESTRELAS%20%28%201984%20%29%20720p.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Trinity é meu nome
 https://archive.org/download/TrinityOMeuNome1970BRripBluRay720pDubladoDat2015/Trinity%20%C3%A9%20o%20Meu%20Nome%20%281970%29%20BRrip%20Blu-Ray%20720p%20Dublado%20-%20Dat2015.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Feitiço do tempo
-https://archive.org/download/filme_velho/feitico_do_tempo.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",De volta para o futuro 2
-https://archive.org/download/de.-volta.-para.o.-futuro.-2.-dub/De.Volta.Para.o.Futuro.2.Dub.avi
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",De volta para o futuro 3
-########## CHARLIE CHAPLIN #######################################################################################################
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fWPixO0.png" group-title="Charlie Chaplin",The Vagabond
-https://publicdomainmovie.net/movie.php?id=CC_1916_07_10_TheVagabond&type=.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fWPixO0.png" group-title="Charlie Chaplin",The Pawnshop
-https://publicdomainmovie.net/movie.php?id=CC_1916_10_02_ThePawnshop&type=.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fWPixO0.png" group-title="Charlie Chaplin",The Rink
-https://publicdomainmovie.net/movie.php?id=CC_1916_12_04_TheRink&type=.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fWPixO0.png" group-title="Charlie Chaplin",The Floorwalker
-https://publicdomainmovie.net/movie.php?id=CC_1916_05_15_TheFloorwalker&type=.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fWPixO0.png" group-title="Charlie Chaplin",The Cure
-https://publicdomainmovie.net/movie.php?id=CC_1917_04_16_TheCure&type=.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fWPixO0.png" group-title="Charlie Chaplin",A Burlesque On Carmen
-https://publicdomainmovie.net/movie.php?id=CC_1915_12_18_ABurlesqueOnCarmen&type=.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fWPixO0.png" group-title="Charlie Chaplin",Charlie Shanghaied
-https://publicdomainmovie.net/movie.php?id=CC_1915_10_04_CharlieShanghaied&type=.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fWPixO0.png" group-title="Charlie Chaplin",Charlie's Recreation
-https://publicdomainmovie.net/movie.php?id=CC_1914_08_13_CharliesRecreation&type=.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fWPixO0.png" group-title="Charlie Chaplin",Tillies Punctured Romance
-https://publicdomainmovie.net/movie.php?id=CC_1914_11_14_TilliesPuncturedRomance&type=.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fWPixO0.png" group-title="Charlie Chaplin",The Count
-https://publicdomainmovie.net/movie.php?id=CC_1916_09_04_TheCount&type=.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fWPixO0.png" group-title="Charlie Chaplin",Ona A.M.
-https://publicdomainmovie.net/movie.php?id=CC_1916_08_07_One_A_M&type=.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fWPixO0.png" group-title="Charlie Chaplin",Kids Auto Race At Venice
-https://publicdomainmovie.net/movie.php?id=CC_1914_02_07_KidsAutoRaceAtVenice&type=.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fWPixO0.png" group-title="Charlie Chaplin",Make A Living
-https://publicdomainmovie.net/movie.php?id=CC_1914_02_02_MakingALiving&type=.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fWPixO0.png" group-title="Charlie Chaplin",Mabel's Strange Predicament
-https://publicdomainmovie.net/movie.php?id=CC_1914_02_09_MabelsStrangePredicament&type=.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fWPixO0.png" group-title="Charlie Chaplin",The Good For Nothing
-https://publicdomainmovie.net/movie.php?id=CC_1914_08_31_TheGoodforNothing&type=.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/fWPixO0.png" group-title="Charlie Chaplin",Afair Exchange
-https://publicdomainmovie.net/movie.php?id=CC_1914_12_05_AFairExchange&type=.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Um sem juízo, outro sem razão
+https://archive.org/download/02-um-sem-juizo-outro-sem-razao/02USJOSR.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Motoqueiros selvagens
+https://archive.org/download/02-um-sem-juizo-outro-sem-razao/03MTQROS.SlVGNS.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Posadas
+https://archive.org/download/02-um-sem-juizo-outro-sem-razao/04L4POSAD4.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",O bobo e a fera
+https://archive.org/download/02-um-sem-juizo-outro-sem-razao/3RNSTBBF3RA.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Click
+https://archive.org/download/02-um-sem-juizo-outro-sem-razao/CL1CK.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Como se fosse a primeira vez
+https://archive.org/download/02-um-sem-juizo-outro-sem-razao/CMOS3FSS34PRMR4V3Z.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Corra que a polícia vem aí
+https://archive.org/download/02-um-sem-juizo-outro-sem-razao/CRRAQPLCEVMAI.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Esposa de mentirinha
+https://archive.org/download/02-um-sem-juizo-outro-sem-razao/ESPS4DMNTR1NH4.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Eu, eu mesmo e Irene
+https://archive.org/download/02-um-sem-juizo-outro-sem-razao/EUEUYRNE.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Gente grande
+https://archive.org/download/02-um-sem-juizo-outro-sem-razao/GNTGRND3.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Golpe baixo
+https://archive.org/download/02-um-sem-juizo-outro-sem-razao/GOLP3B41XO.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Juntos e misturados
+https://archive.org/download/02-um-sem-juizo-outro-sem-razao/JNTOS3MSTRADO.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Operação Natal
+https://archive.org/download/02-um-sem-juizo-outro-sem-razao/OP3R4%C3%874ON4T4L.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Pixels
+https://archive.org/download/02-um-sem-juizo-outro-sem-razao/PX3LS.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Tratamento de choque
+https://archive.org/download/02-um-sem-juizo-outro-sem-razao/TRTMNTOdCHQU3.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Twister
+https://archive.org/download/02-um-sem-juizo-outro-sem-razao/TWSTR96.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Roberto Carlos e o diamente cor de rosa
+https://archive.org/download/roberto-carlos-e-o-diamante-cor-de-rosa-1968-720p/ROBERTO%20CARLOS%20E%20O%20DIAMANTE%20COR-DE-ROSA-1968-720p.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Roberto Carlos em ritmo de aventura
+https://archive.org/download/roberto-carlos-em-ritmo-de-aventura-1968/Roberto%20Carlos%20-%20Em%20Ritmo%20de%20Aventura%20%281968%29.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",A espiã que veio do céu
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/A%20Espi%C3%A3%20Que%20Veio%20do%20C%C3%A9u%201967%20Dublado%20Filme%20de%20A%C3%A7%C3%A3o%20e%20Com%C3%A9dia.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Cinco semanas num balão
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/Cinco%20Semanas%20Num%20Bal%C3%A3o%20%281962%29%2C%20da%20obra%20de%20Jules%20Verne%2C%20filme%20completo%20e%20dublado.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",Lawrence da Arábia
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/Lawrence%20da%20Ar%C3%A1bia%20%28Lawrence%20of%20Arabia%29%20-%201962%20_%20Dublado%20_%20Com%20Peter%20O%27Toole%20%26%20Omar%20Sharif%20%5BHD%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",O conde de Monte Cristo
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/O%20Conde%20de%20Monte%20Cristo%20-%20Filme%20Completos%20Dublado.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",O fabuloso ladrão de Bagdá
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/O%20Fabuloso%20Ladr%C3%A3o%20de%20Bagd%C3%A1%201978%20Dublado%20Filme%20de%20Aventura.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sDQVUci.jpg" group-title="Cinema em casa",O mágico de Oz
+https://archive.org/download/a-queda-do-imperio-romano-filme-dublado-1964/O%20M%C3%A1gico%20de%20Oz%201939%20%20-%20BluRay%201080p%20Dual%20%C3%81udio.mp4
