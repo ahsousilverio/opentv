@@ -1,14 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AcusticoImaginar.br" tvg-logo="https://imgur.com/1bbyolK.png" group-title="OpenTV | Música",Acústico Imaginar
+https://www.youtube-nocookie.com/embed/aqIOdPuSPw0
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="OpenTV | Geral",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="OpenTV | Indefinido",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="ANIMESTATION.ar" tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="OpenTV | Animação",ANIMESTATION (Argentina)
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="OpenTV | Infantil",BabyFirst
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 #EXTINF:-1 tvg-id="BemTV.br" tvg-logo="https://i.imgur.com/ifGQGJx.png" group-title="OpenTV | Geral",Bem TV
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BoaVontadeTV.br" tvg-logo="https://imgur.com/Lue6Gfk.png" group-title="OpenTV | Religioso",Boa Vontade TV
+https://www.youtube-nocookie.com/embed/csMynrY0T7g
 #EXTINF:-1 tvg-id="BoasNovas.br" tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="OpenTV | Indefinido",Boas Novas
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-logo="https://imgur.com/NwmJBmY.png" group-title="OpenTV | Religioso",Canção Nova
+https://www.youtube-nocookie.com/embed/-1__eSfLYg4
 #EXTINF:-1 tvg-id="Canal38.br" tvg-logo="https://i.imgur.com/co7TCWC.png" group-title="OpenTV | Notícias",Canal 38
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaldoCriador.br" tvg-logo="https://i.imgur.com/k29So6X.png" group-title="OpenTV | Rural",Canal do Criador
@@ -29,12 +37,18 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 tvg-id="CWBTV.br" tvg-logo="https://i.imgur.com/S0ISpmU.png" group-title="OpenTV | Família",CWB TV
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ConexaoTV.br" tvg-logo="https://imgur.com/JJzS8bO.png" group-title="OpenTV | Indefinido",Conexão TV
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DemaisTV.br" tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="OpenTV | Geral",Demais TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1 tvg-id="DiaTV.br" tvg-logo="https://imgur.com/2EEf3nZ.png" group-title="OpenTV | Cultura",DiaTV
+https://www.youtube-nocookie.com/embed/Df3g76Y25gs
 #EXTINF:-1 tvg-id="ElyTV.br" tvg-logo="https://i.imgur.com/1eHNe91.png" group-title="OpenTV | Entretenimento",ElyTV
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 #EXTINF:-1 tvg-id="EUTV.br" tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="OpenTV | Geral",EUTV
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="Famatv.pt" tvg-logo="https://i.ibb.co/tMmRp18/Fama-TV-cor-whitebg-hotizontal.jpg" group-title="OpenTV | Música",Famatv
+https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 tvg-id="FalaLitoral.br" tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="OpenTV | Geral",Fala Litoral
 https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 #EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="OpenTV | Animação",Fanpop TV
@@ -53,36 +67,72 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Kanade.cl" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="OpenTV | Entretenimento",Kanade
 https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="OpenTV | Filmes",Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="OpenTV | Animação",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="OpenTV | Música",Kuriakos Music
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-logo="https://i.imgur.com/xdAW0D5.png" group-title="OpenTV | Religioso",Kuriakos TV
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Loading.br" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="OpenTV | Entretenimento",Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="MasterShowTV.br" tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="OpenTV | Música",Master Show TV
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.br" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="OpenTV | Filmes",MyTime Movie Network Brazil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="OpenTV | Animação",Nickelodeon (Espanha)
+http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NovaTVAgrotour.br" tvg-logo="https://i.imgur.com/cgN2hfm.png" group-title="OpenTV | Rural",Nova TV Agrotour
 https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:-1 tvg-id="NPCRadioeTV.pt" tvg-logo="https://i.imgur.com/mw1lYWE.png" group-title="OpenTV | Música",NPC Rádio e TV
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
+#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="OpenTV | Indefinido",Nova Era TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br" tvg-logo="https://imgur.com/4gigocq.png" group-title="OpenTV | Religioso",Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ONFM.pt" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" group-title="OpenTV | Música",ON FM
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="PlenaTV.br" tvg-logo="https://i.imgur.com/lH4RT7b.png" group-title="OpenTV | Notícias",Plena TV
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-logo="https://i.imgur.com/DwziwMY.png" group-title="OpenTV | Geral",Porto Canal
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PrimerTV.br" tvg-logo="https://i.imgur.com/PMptSP3.png" group-title="OpenTV | Geral",Primer TV
 http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioTVSalOne.cv" tvg-logo="https://i.imgur.com/pCz7ifY.jpg" group-title="OpenTV | Música",Radio TV Sal One
+https://lon.rtsp.me/r3ZnG6WN2HIRxPARhAirIQ/1713628621/hls/9QdykDAy.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="OpenTV | Notícias",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 #EXTINF:-1 tvg-id="Record.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="OpenTV | Geral",RecordTV
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="RedeBrasildeComunicacao.br" tvg-logo="https://i.imgur.com/iiJufN2.png" group-title="OpenTV | Religioso",Rede Brasil de Comunicação
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-logo="https://i.imgur.com/7KVFCrQ.png" group-title="OpenTV | Religioso",Rede Família
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeMais.br" tvg-logo="https://i.imgur.com/JSiZG2B.png" group-title="OpenTV | Indefinido",Rede Mais
+https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeNGT.br" tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="OpenTV | Entretenimento",Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-logo="https://imgur.com/UDXpwRw.png" group-title="OpenTV | Religioso",Rede Século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSPTV.br" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="OpenTV | Geral",Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeSul.br" tvg-logo="https://i.imgur.com/eUM67rj.png" group-title="OpenTV | Geral",Rede Sul
+https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
 #EXTINF:-1 tvg-id="RevryBrasil.us" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Revry_Brasil_476x476circle.png?$ORIGIN_PNG$" group-title="OpenTV | Estilo",Revry Brasil
 https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="OpenTV | Religioso",Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RetroCartoon.br" tvg-logo="https://imgur.com/Jsg7iZz.png" group-title="OpenTV | Animação",Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="OpenTV | Geral",SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="SertaoTV.br" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="OpenTV | Geral",Sertão TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SICTV.br" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="OpenTV | Indefinido",SIC TV
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 tvg-id="SICReplay.pt" tvg-logo="https://i.imgur.com/fj84mXz.png" group-title="OpenTV | Indefinido",SIC Replay
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 #EXTINF:-1 tvg-id="SpectrumChannel.cl" tvg-logo="https://cdn.energeek.cl/logos/spectrumtv-512.png" group-title="OpenTV | Entretenimento",Spectrum Channel
 https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
 #EXTINF:-1 tvg-id="STZTV.br" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="OpenTV | Cultura",STZ TV
@@ -127,12 +177,20 @@ https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
 #EXTINF:-1 tvg-id="TVdoPovo.br" tvg-logo="https://i.imgur.com/58EQ5qX.png" group-title="OpenTV | Notícias",TV do Povo
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:-1 tvg-id="tvevangelizar.br" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/123_bMjVjIS.png" group-title="OpenTV | Religioso",TV Evangelizar
+https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
+#EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-logo="https://i.imgur.com/xwfxS9N.png" group-title="OpenTV | Indefinido",TV Galega Blumenau
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGrandeNatal.br" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="OpenTV | Entretenimento",TV Grande Natal
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-id="TVGraoPara.br" tvg-logo="https://i.imgur.com/1drg0E9.png" group-title="OpenTV | Geral",TV Grao Pará
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGuara.br" tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="OpenTV | Indefinido",TV Guará
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-id="TVJapi.br" tvg-logo="https://i.imgur.com/dnmzIhF.png" group-title="OpenTV | Geral",TV Japi
 https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
+#EXTINF:-1 tvg-id="TVjustica.br" tvg-logo="https://imgur.com/9HLecDZ.png" group-title="OpenTV | Legislativo",TV Justiça
+https://www.youtube-nocookie.com/embed/hPueavgNcs8
 #EXTINF:-1 tvg-id="TVMaceio.br" tvg-logo="https://imgur.com/zZ9LEOZ.png" group-title="OpenTV | Geral",TV Maceió
 https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMaisMarica.br" tvg-logo="https://i.imgur.com/lgCRX7q.png" group-title="OpenTV | Geral",TV Mais Maricá
@@ -141,12 +199,22 @@ https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMon.br" tvg-logo="https://i.imgur.com/Gjan8rl.png" group-title="OpenTV | Indefinido",TV Mon
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMetropole.br" tvg-logo="https://i.imgur.com/bJyjLpg.png" group-title="OpenTV | Geral",TV Metropole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOmindare.br" tvg-logo="https://i.imgur.com/naZZUIT.png" group-title="OpenTV | Cultura",TV Omindaré
 https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOsorioNews.br" tvg-logo="https://i.imgur.com/cmgM4nA.png" group-title="OpenTV | Notícias",TV Osório News
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-logo="https://i.imgur.com/iuoXchN.png" group-title="OpenTV | Religioso",TV Pai Eterno
+https://www.youtube.com/live/i5rLwukmG-k
+#EXTINF:-1 tvg-id="TVPantanalMS.br" tvg-logo="https://i.imgur.com/0FOmktl.png" group-title="OpenTV | Indefinido",TV Pantanal MS
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-logo="https://i.imgur.com/I6pKoBd.png" group-title="OpenTV | Viagem",TV Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1 tvg-id="TVPadreCicero.br" tvg-logo="https://pa-str.srvsite.com/arquivos/4248/cabecalho-4248-20201031111038.jpg" group-title="OpenTV | Religioso",TV Padre Cicero
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPassoFundo.br" tvg-logo="https://i.imgur.com/QFE6TiV.png" group-title="OpenTV | Geral",TV Passo Fundo
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlan.br" tvg-logo="https://i.imgur.com/U1cYYuy.png" group-title="OpenTV | Geral",TV Plan
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRioPreto.br" tvg-logo="https://i.imgur.com/9EqSKLc.png" group-title="OpenTV | Geral",TV Rio Preto
@@ -155,7 +223,7 @@ https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
 https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSaoRaimundo.br" tvg-logo="https://i.imgur.com/f34CQIG.png" group-title="OpenTV | Geral",TV São Raimundo
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSeries.br" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="OpenTV | Series",TV Series 1 As Panteras
+#EXTINF:-1 tvg-id="TVSeries.br" tvg-logo="https://i.imgur.com/Ff5mj0o.png" group-title="OpenTV | Séries",TV Series 1 As Panteras
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimCachoeiro.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="OpenTV | Notícias",TV Sim Cachoeiro
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
@@ -163,6 +231,8 @@ https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimSaoMateus.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="OpenTV | Notícias",TV Sim São Mateus
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSolComunidade.br" tvg-logo="https://tvsolcomunidade.com.br/wp-content/uploads/2019/01/logo-tv-sol.png" group-title="OpenTV | Indefinido",TV Sol Comunidade (480p) [Not 24/7]
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSulBahia.br" tvg-logo="https://i.imgur.com/qM6nMWm.png" group-title="OpenTV | Indefinido",TV Sul Bahia
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSuldeMinas.br" tvg-logo="https://i.imgur.com/hPh8cxK.png" group-title="OpenTV | Geral",TV Sul de Minas
@@ -171,10 +241,14 @@ https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTudoBH.br" tvg-logo="https://i.imgur.com/5SKSkUQ.png" group-title="OpenTV | Loja",TV Tudo BH
 https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
+#EXTINF:-1 tvg-id="TVUFG.br" tvg-logo="https://i.imgur.com/Yp3dbJo.png" group-title="OpenTV | Educação",TV UFG
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUniversal.br" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="OpenTV | Religioso",TV Universal
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVicosa.br" tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="OpenTV | Entretenimento",TV Viçosa
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVVitoria.mz" tvg-logo="https://i.imgur.com/HlWzzfj.png" group-title="OpenTV | Entretenimento",TV Vitória
+https://stmv1.srvif.com/tvvitoriamz/tvvitoriamz/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVilaReal.br" tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="OpenTV | Indefinido",TV Vila Real
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-id="TVZoom.br" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="OpenTV | Entretenimento",TV Zoom
@@ -187,15 +261,65 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVERS.br" tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="OpenTV | Cultura",TVE RS
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIAfrica.pt" tvg-logo="https://i.ibb.co/vBbSHB4/Tvi-africa.png" group-title="OpenTV | Geral",TVI África
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" group-title="OpenTV | Séries",TVI Ficção
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-logo="https://i.imgur.com/C9rxqA5.png" group-title="OpentV | Entretenimento",TVI Reality
+https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEStarHD.es" tvg-logo="https://i.imgur.com/zsCZHMh.png" group-title="OpenTV | Séries",TVE Star HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-id="TVitape.br" tvg-logo="https://i.imgur.com/XeqcwKe.png" group-title="OpenTV | Geral",TVitapé
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-id="TVideoNews.br" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="OpenTV | Notícias",TVídeoNews
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNBrasil.br" tvg-logo="https://i.imgur.com/XZS13xD.png" group-title="OpenTV | Indefinido",TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNBN.br" tvg-logo="https://i.imgur.com/zoHBxn1.png" group-title="OpenTV | Geral",TVNBN
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-id="UnisulTV.br" tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="OpenTV | Cultura",UNISUL TV
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+#EXTINF:-1 tvg-id="VPlusTVI.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ef/V%2BTVI_Logo.png" group-title="OpenTV | Geral",V+ TVI
+https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="VV8TV.br" tvg-logo="https://i.imgur.com/TxHWAeD.png" group-title="OpenTV | Geral",VV8 TV
+https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 ########## RADIO ################################################################################################################
+#EXTINF:-1 tvg-id="antena1.br" tvg-logo="https://img.radios.com.br/radio/lg/radio14167_1521464851.jpg" group-title="OpenTV | Radio",Nova Onda FM
+http://148.72.158.239:8009/live?1742841377587
+#EXTINF:-1 tvg-id="antena1.br" tvg-logo="https://cdn-profiles.tunein.com/s67624/images/logod.jpg" group-title="OpenTV | Radio",Antena 1
+https://antenaone.crossradio.com.br/stream/1
+#EXTINF:-1 tvg-id="89fm.br" tvg-logo="https://cdn-profiles.tunein.com/s85089/images/logod.jpg" group-title="OpenTV | Radio",89 FM
+https://27383.live.streamtheworld.com/RADIO_89FM.mp3
+#EXTINF:-1 tvg-id="89fm.br" tvg-logo="https://cdn-profiles.tunein.com/s143777/images/logod.png" group-title="OpenTV | Radio",Classic Pan
+https://stream-167.zeno.fm/rtk4pzcome3vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJydGs0cHpjb21lM3Z2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkY5S1BpX3BuUS1DRXpVRUl1V0x5ZWciLCJpYXQiOjE3NDI4NjAwNzUsImV4cCI6MTc0Mjg2MDEzNX0.eF5s2_nZOpgGz7RajfER-2zYEgAds4r-9e2BrGaeaK0
+#EXTINF:-1 tvg-id="alphafm.br" tvg-logo="https://cdn-profiles.tunein.com/s8129/images/logod.jpg" group-title="OpenTV | Radio",Alpha FM
+https://27393.live.streamtheworld.com/RADIO_ALPHAFM.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTc0Mjg2MDEyOSwiaXNzIjoidGlzcnYifQ.UI5k19rMkqp0yYRRdMvrSTl_932fL54VzaN2B6RPrhM
+#EXTINF:-1 tvg-id="alphafm.br" tvg-logo="https://cdn-profiles.tunein.com/s85253/images/logod.png" group-title="OpenTV | Radio",Saudade FM
+https://27363.live.streamtheworld.com/SAUDADE_FM.mp3
+#EXTINF:-1 tvg-id="alphafm.br" tvg-logo="https://cdn-profiles.tunein.com/s8316/images/logod.png" group-title="OpenTV | Radio",Nova Brasil FM
+https://24223.live.streamtheworld.com/NOVABRASIL_SP.mp3
+#EXTINF:-1 tvg-id="kissFM.br" tvg-logo="https://cdn-profiles.tunein.com/s7065/images/logod.png" group-title="OpenTV | Radio",Radio Globo FM
+https://27363.live.streamtheworld.com/RADIO_GLOBO_RJAAC.aac?dist=
+#EXTINF:-1 tvg-id="kissFM.br" tvg-logo="https://cdn-profiles.tunein.com/s6165/images/logod.png" group-title="OpenTV | Radio",Kiss FM
+https://26523.live.streamtheworld.com/RADIO_KISSFMAAC.aac
+#EXTINF:-1 tvg-id="mixFM.br" tvg-logo="https://cdn-profiles.tunein.com/s86725/images/logod.png" group-title="OpenTV | Radio",Mix FM
+https://26573.live.streamtheworld.com/MIXFM_SAOPAULO.mp3
+#EXTINF:-1 tvg-id="mixFM.br" tvg-logo="https://cdn-profiles.tunein.com/s97273/images/logod.png" group-title="OpenTV | Radio",Transamérica FM
+https://26643.live.streamtheworld.com/RT_SPAAC/HLS/playlist.m3u8?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTc0Mjg2MDM2OCwiaXNzIjoidGlzcnYifQ.zZb0Pckl7K4WZ8jwZ55Lrtiz5kHvBAmkeA1t1IpEsJk
+#EXTINF:-1 tvg-id="mixFM.br" tvg-logo="https://cdn-profiles.tunein.com/s25749/images/logod.jpg" group-title="OpenTV | Radio",Radio Energia
+https://streaming.inweb.com.br/energia
+#EXTINF:-1 tvg-id="mixFM.br" tvg-logo="https://cdn-profiles.tunein.com/s104924/images/logod.png" group-title="OpenTV | Radio",Radio Atlântida
+https://1852747t.ha.azioncdn.net/primary/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="mixFM.br" tvg-logo="https://cdn-profiles.tunein.com/s264202/images/logod.jpg" group-title="OpenTV | Radio",Hunter FM
+https://live.hunter.fm/sertanejo_high
+#EXTINF:-1 tvg-id="mixFM.br" tvg-logo="https://cdn-profiles.tunein.com/s65465/images/logod.png" group-title="OpenTV | Radio",Band FM
+https://27373.live.streamtheworld.com/BANDFM_SPAAC.aac?dist=radios.com.br&1742860598556
+#EXTINF:-1 tvg-id="mixFM.br" tvg-logo="https://cdn-profiles.tunein.com/s6999/images/logod.png" group-title="OpenTV | Radio",Metropolitana FM
+https://f112.fabricahost.com.br/metropolitana985sp?f=1742859654N01JQ58FN594ARK515M5AR494M8&tid=01JQ58FN59FKK90HHZK1S4H9H9
+#EXTINF:-1 tvg-id="mixFM.br" tvg-logo="https://cdn-profiles.tunein.com/s174224/images/logod.png" group-title="OpenTV | Radio",Rock Verde Amarelo
+https://c4.radioboss.fm:8216/rockva
+#EXTINF:-1 tvg-id="mixFM.br" tvg-logo="https://cdn-profiles.tunein.com/s10496/images/logod.png" group-title="OpenTV | Radio",Radio Alvorada FM
+https://27343.live.streamtheworld.com/RADIO_ALVORADA.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTc0Mjg2MDc0MCwiaXNzIjoidGlzcnYifQ.bRnVDwlTCtsVUGMBD4yrqtSK8wIpcNzuJfrOLrpIhiA
 #EXTINF:-1 tvg-id="anos70.br" tvg-logo="https://imgur.com/u5giryd.png" group-title="OpenTV | Radio",Anos 70
 https://0n-70s.radionetz.de/0n-70s.mp3
 #EXTINF:-1 tvg-id="anos80.br" tvg-logo="https://imgur.com/QtOu4G7.png" group-title="OpenTV | Radio",Anos 80
